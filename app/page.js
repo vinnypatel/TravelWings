@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import logo from './travelWings.png';
+import logo from './public/TravelWings.png';
 
 export default function TrawellWingsWebsite() {
   const services = [
